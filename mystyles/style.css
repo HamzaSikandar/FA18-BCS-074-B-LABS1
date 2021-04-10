@@ -1,0 +1,24 @@
+.head {
+  border-bottom: 1px solid rgb(236, 223, 223);
+}
+.proart {
+  margin-left: 50px;
+}
+.logo {
+  margin-left: 5px;
+  border-right: 2px solid rgb(236, 223, 223);
+}
+#content {
+  margin-left: 120px;
+}
+#paragraphs {
+  display: flex;
+  margin-top: 5%;
+}
+.secondparagraph {
+  margin-left: 30%;
+  overflow: hidden;
+}
+footer {
+  margin-top: 20px;
+}
