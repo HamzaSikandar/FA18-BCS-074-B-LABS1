@@ -22,3 +22,9 @@
 footer {
   margin-top: 20px;
 }
+.foot {
+  display: flex;
+}
+ul {
+  list-style: none;
+}
